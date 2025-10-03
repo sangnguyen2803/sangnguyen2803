@@ -6,8 +6,7 @@
 
 ## Skills and Experience
 
-AI & Data Engineering
-* Development tools
+AI & Data Engineering (2024 - now)
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="K8S" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -35,7 +34,7 @@ AI & Data Engineering
   <img alt="Snowflake" src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
-Software Engineering (Full-stack Developer)
+Software Engineering (Full-stack Developer) (2018 - 2024)
 <p>
   
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
