@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 ## Skills and Experience
+
+AI & Data Engineering
+<p>
+  
+  <img alt="Docker" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+</p>
+
+Software Engineering (Full-stack Developer)
 <p>
   
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
