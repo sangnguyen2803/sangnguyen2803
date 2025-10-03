@@ -3,10 +3,15 @@
 ## Skills and Experience
 
 AI & Data Engineering
+- Development tools
 <p>
-  
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+  <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+</p>
+- Database - DBMS
+<p>
+  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 Software Engineering (Full-stack Developer)
