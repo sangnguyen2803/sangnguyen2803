@@ -1,4 +1,4 @@
-### Hi there 👋
+
 **NGUYEN Sang**
 <p>Software Engineer specialized in AI/Data Science</p>
 <p>Living in Lyon, France</p>
