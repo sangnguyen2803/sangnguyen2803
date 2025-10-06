@@ -1,5 +1,5 @@
 
-<p style={size="25"}>**NGUYEN Sang**</p>
+<p style={size:"25"}>**NGUYEN Sang**</p>
 <p>Software Engineer specialized in AI/Data Science</p>
 <p>Living in Lyon, France</p>
 
