@@ -1,5 +1,5 @@
 
-<p>**NGUYEN Sang**</p>
+<h1>Nguyen Sang</h1>
 <p>Software Engineer specialized in AI/Data Science</p>
 <p>Living in Lyon, France</p>
 
