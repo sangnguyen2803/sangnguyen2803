@@ -2,7 +2,6 @@
 **NGUYEN Sang**
 <p>Software Engineer specialized in AI/Data Science</p>
 <p>Living in Lyon, France</p>
-<p>Language: English, French, Vietnamese</p>
 
 ## Skills and Experience
 
