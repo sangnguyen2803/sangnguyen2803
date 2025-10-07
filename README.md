@@ -1,7 +1,7 @@
 
 <h1>Nguyen Sang</h1>
 <p>Software Engineer specialized in AI/Data Science</p>
-<p>Living in Lyon, France</p>
+<p>Living in Villeurbanne, France</p>
 
 ## Skills and Experience
 
