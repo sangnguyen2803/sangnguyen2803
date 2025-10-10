@@ -6,8 +6,7 @@
 
 ## Skills and Experience
 
-Studying AI & Data Engineer
-(Computer Vision & Robotics) at INSA Lyon
+Studying AI & Data Engineering (Computer Vision & Robotics) at INSA Lyon
 (2024 - now)
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
