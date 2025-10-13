@@ -2,7 +2,6 @@
 <h1>NGUYEN SANG</h1>
 <p>Software Engineer specialized in AI/Data Science</p>
 <p>Living in Villeurbanne, France</p>
-<p>Check my LinkedIn: linkedin.com/in/nsang283/</p>
 
 ## Skills and Experience
 
