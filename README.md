@@ -1,5 +1,5 @@
 
-<h1>- NGUYEN SANG -</h1>
+<h1> NGUYEN SANG </h1>
 <p>Software Engineer specialized in AI/Data Science</p>
 
 ## Skills and Experience
