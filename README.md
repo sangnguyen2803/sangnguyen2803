@@ -33,7 +33,7 @@ Technology and Frameworks
   <img alt="Snowflake" src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
-Computer Science - Software Engineering (Full-stack Developer) (2018 - 2024)
+- Computer Science - Software Engineering (Full-stack Developer) (2018 - 2024) -
 <p>
   
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
