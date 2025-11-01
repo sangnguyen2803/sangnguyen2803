@@ -4,7 +4,7 @@
 
 ## Skills and Experience
 
-- Studying AI for Computer Vision & Robotics at INSA Lyon -
+- Studying AI for Robotics & Computer Vision at INSA Lyon -
 Technology and Frameworks
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
