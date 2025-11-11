@@ -1,11 +1,10 @@
 
 <h1> NGUYEN SANG </h1>
-<p>Software Engineer specialized in AI/Data Science</p>
+<p>Software Engineer</p>
 
 ## Skills and Experience
 
-- Studying AI for Robotics & Computer Vision at INSA Lyon -
-Technology and Frameworks
+- Technology and Framework -
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="K8S" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
