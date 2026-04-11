@@ -1,13 +1,6 @@
 
 <h1> NGUYEN SANG </h1>
-<p>AI Engineer</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangnguyen2803&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=648&langs_count=10" alt="Top Languages" />
-</div>
-
-
-
+## AI Engineer ##
 ## Skills and Experience
 
 - Technology and Framework -
