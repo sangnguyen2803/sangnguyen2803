@@ -1,6 +1,7 @@
 
 <h1> NGUYEN SANG </h1>
-## AI Engineer ##
+## AI Engineer
+
 ## Skills and Experience
 
 - Technology and Framework -
