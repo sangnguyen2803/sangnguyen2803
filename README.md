@@ -1,6 +1,6 @@
 
 <h1> NGUYEN SANG </h1>
-## AI Engineer
+<h2>AI Engineer </h2>
 
 ## Skills and Experience
 
