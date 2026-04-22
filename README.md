@@ -1,5 +1,6 @@
 
-<h1> NGUYEN SANG - AI Engineer</h1>
+<h1> NGUYEN SANG - AI/Computer Vision Engineer</h1>
+3-year experience in Software Engineering, currently persuing AI for Computer Vision at INSA Lyon, France
 
 ## Skills and Experience
 
