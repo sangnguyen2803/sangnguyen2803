@@ -2,9 +2,11 @@
 <h1> NGUYEN SANG - AI/Computer Vision Engineer</h1>
 3-year experience in Software Engineering, currently persuing AI for Computer Vision at INSA Lyon, France
 
-**Status:** Opened for AI Engineer Internship & Collaboration
+**Status:** Open for AI Engineer Internship & Collaboration in France, EU
 
 **Language:** English & French
+
+**Hobby**: Gaming, Travelling
 
 ## Skills and Experience
 
